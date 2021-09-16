@@ -12,7 +12,7 @@
 <br />
 
 ## About me
-- 👀 I’m passionate about Embedded System , linux and learnig new things.
+- 👀 I’m passionate about Embedded Systems, linux os and learnig new things.
 - 🌱 I’m currently pursuing my Bachelors Mechatronics Engineering and exploring about open source software dev.
 - 💞️ I’m looking to collaborate on project related C programming, RTOS and linux .
 - 📫 How to reach me by mailing me at prasadmerya@gmail.com
