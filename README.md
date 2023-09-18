@@ -14,7 +14,5 @@
 ## About me
 - 👀 I’m passionate about Embedded Systems, linux os and learnig new tech.
 - 🌱 A Mechatronics Engineering graduate working as an Embedded Software Developer, currently exploring open-source software development
-- 💞️ I'm interested in collaborating on projects related to C and C++ programming, as well as RTOS and Linux development.
-- 📫 How to reach me by mailing me at prasadmerya@gmail.com
 
 
